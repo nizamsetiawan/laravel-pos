@@ -44,7 +44,7 @@ class OrderController extends Controller
         //response
         return response()->json([
             'success' => true,
-            'message' => 'Order Created'
+            'message' => 'Pesanan Berhasil Dibuat'
         ], 201);
     }
 }

@@ -49,13 +49,13 @@ class ProductController extends Controller
         if ($product) {
             return response()->json([
                 'success' => true,
-                'message' => 'Product Created',
+                'message' => 'Product Berhasil Disimpan',
                 'data' => $product
             ], 201);
         } else {
             return response()->json([
                 'success' => false,
-                'message' => 'Product Failed to Save',
+                'message' => 'Product Gagal Disimpan',
             ], 409);
         }
     }
