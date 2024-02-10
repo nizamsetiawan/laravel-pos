@@ -2,7 +2,7 @@
 ![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheTli2GLufxBSotmFiceRgmsSd0WvFVHE4KLzsxa0JLa5oPQlmOCAbFbXf4auGLDcUNeqSEYNYrau9Qg0ArfMSxJpeg8eTrdLchgY93iLI2wKQ2uC8d--KZ1_zibhaYc6YH363irv-6PrYqILjh8gVl7Gsfijn70Lvp2d2OxQ37EGZXj6zMDfia6GJ/w400-h116/laravel-logo.png)
 
 
-# E - Kasir Backend use laravel 10
+# mokPOS Backend use laravel 10
 
 Sistem Informasi Kasir menggunakan framework laravel 
 
